@@ -12,4 +12,4 @@
 <a href="https://www.linkedin.com/in/tburakdirlik/"><strong> linkedin </strong></a></a>
 
 </h2>
-<h2 align='center'> I’m currently learning  JavaScript and Java Spring</h2>
+<h2 align='center'> I’m currently learning Java Spring</h2>
