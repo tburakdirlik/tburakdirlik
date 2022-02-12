@@ -10,8 +10,8 @@
 <a href= https://github.com/tburakdirlik?tab=repositories&q=&type=&language=linux&sort= > <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 </h1>
 
-<h2 align= 'center'>Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"><a href="mailto:tburakdirlik@gmail.com"><strong>gmail </strong></a>
+<h2 align= 'left'>Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"><a href="mailto:tburakdirlik@gmail.com"><strong>gmail </strong></a>
 <a href="https://www.linkedin.com/in/tburakdirlik/"><strong> linkedin </strong></a></a>
 
 </h2>
-<h2 align='center'> I’m currently learning Java Spring</h2>
+<h2 align='left'> I’m currently learning Java Spring</h2>
