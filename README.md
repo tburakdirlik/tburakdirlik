@@ -1,5 +1,5 @@
 <h1 align='left'> <strong>Hi I'm Burak</strong></>
-<h1 style="color:red;font-size:40px;">Heading</h1> 
+<h1 style="color:red;font-size:60px;">Heading</h1> 
 <h1 align='left'>
   Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>
   <a href= https://github.com/tburakdirlik?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
