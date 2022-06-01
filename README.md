@@ -14,6 +14,6 @@ Competitive person which focusing on cyber security and web.
 
 </h2>
 
-<h2 align= 'left'>Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"><a href="mailto:tburakdirlik@gmail.com"><strong>gmail </strong></a>
+<h2 align= 'left'>Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"><a href="mailto:tburakdirlik@gmail.com"><strong>gmail </strong></a>
 <a href="https://www.linkedin.com/in/tburakdirlik/"><strong> linkedin </strong></a></a>
 
