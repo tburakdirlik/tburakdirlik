@@ -14,5 +14,3 @@ A person which focusing on cyber security and web.
 
 </h2>
 
-<h2 align= 'left'>Connect with <img src='https://s4.gifyu.com/images/handshake.gif' width = 30px><a href="mailto:tburakdirlik@gmail.com"><strong> gmail </strong></a>
-<a href="https://www.linkedin.com/in/tburakdirlik/"><strong> linkedin </strong></a></a>
