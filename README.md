@@ -9,7 +9,7 @@ A person which focusing on cyber security on web.
 <a href= https://github.com/tburakdirlik?tab=repositories&q=&type=&language=javascript&sort= > <img width ='17px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/tburakdirlik?tab=repositories&q=&type=&language=linux&sort= > <img width ='17px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <a href= https://github.com/tburakdirlik?tab=repositories&q=&type=&language=docker&sort= > <img width ='17px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/tburakdirlik?tab=repositories&q=&type=&language=spring&sort= > <img width ='17px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> ☕  </a>
+<a href= https://github.com/tburakdirlik?tab=repositories&q=&type=&language=spring&sort= > <img width ='17px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
 
 
 </h2>
