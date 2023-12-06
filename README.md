@@ -1,1 +1,1 @@
-A person which focusing on cyber security on web.
+A person which focusing on cyber security
